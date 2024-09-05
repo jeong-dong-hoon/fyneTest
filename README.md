@@ -1,2 +1,2 @@
 # fyneTest
-fyne test
+## go--version 22
